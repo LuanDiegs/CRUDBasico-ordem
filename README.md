@@ -1,4 +1,4 @@
-🧙‍♂️ <b>Projeto: CRUD com Temática de Ordem Paranormal<b/> 🧙‍♀️<br>
+🧙‍♂️ **Projeto: CRUD com Temática de Ordem Paranormal** 🧙‍♀️<br>
 Este projeto é um CRUD (Create, Read, Update, Delete) desenvolvido com uma temática inspirada no universo de Ordem Paranormal. O sistema utiliza um banco de dados MySQL e é estruturado com base em conceitos da arquitetura DDD (Domain-Driven Design), garantindo uma organização clara e eficiente do código.
 
 🛠️ Tecnologias e Conceitos Utilizados
