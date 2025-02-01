@@ -5,7 +5,7 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRUDBasico", "WebApplication1\CRUDBasico.csproj", "{BBCF9283-485C-42F2-8931-492225AF9F55}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5B5EE757-F44A-42F8-94A5-F5996A0DE190}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Src", "Src", "{5B5EE757-F44A-42F8-94A5-F5996A0DE190}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{FCD78072-4DCD-4B24-AEC9-16E3077E33C8}"
 EndProject
@@ -14,7 +14,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aplicacao", "Aplicacao\Apli
 		{FCD78072-4DCD-4B24-AEC9-16E3077E33C8} = {FCD78072-4DCD-4B24-AEC9-16E3077E33C8}
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "testes", "testes", "{8AC44F8F-E935-4FC4-96B9-439F26918A45}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Testes", "Testes", "{8AC44F8F-E935-4FC4-96B9-439F26918A45}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unitarios", "Unitarios", "{8E367005-5DAB-4888-9F22-3DB13E9AAF38}"
 EndProject
@@ -22,7 +22,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestesUnitariosAppService",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Integracao", "Integracao", "{2A4CC4F4-6657-427F-8BA6-42595E13EC1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteIntegracao", "TesteIntegracao\TesteIntegracao.csproj", "{19E60F5A-0CB9-490E-81F3-0659B8F69EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestesIntegracao", "TesteIntegracao\TestesIntegracao.csproj", "{19E60F5A-0CB9-490E-81F3-0659B8F69EE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
