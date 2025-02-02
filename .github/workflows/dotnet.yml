@@ -23,7 +23,5 @@ jobs:
         run: dotnet restore
       - name: Build
         run: dotnet build --no-restore
-      - name: Testes unitarios de aplicacao
-        run: dotnet test Testes\Unitarios\TestesUnitariosAppService.csproj --no-build --verbosity normal
-      - name: Testes de integracao
-        run: dotnet test Testes\Integracao\TestesIntegracao.csproj --no-build --verbosity normal
+      - name: Testes
+        run: dotnet test --no-build --verbosity normal
